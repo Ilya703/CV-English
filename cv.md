@@ -9,6 +9,7 @@
     * enotn36@gmail.com
 * **Telegram**: @enotzef
 * **GitHub**: [Ilya703](https://github.com/Ilya703)
+* **Codewars** [profile](https://www.codewars.com/users/Ilya703)
 * **Fl.ru**: [freelance_portfolio](https://www.fl.ru/users/ilyaskobelev04/portfolio/#/)
 * **Discord (RS School)**: Enot_why_not (@Ilya703)
 
@@ -46,6 +47,7 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 * HTML5
 * CSS3 (SASS/SCSS)
 * JavaScript (ES6+, OOP, DOM, AJAX)
+* Webpack
 * Git/GitHub
 * Figma
 * C++
