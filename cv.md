@@ -19,7 +19,7 @@ My name is Ilya and I am 18 years old. The keen interest in Frontend developing 
 
 * I was developing projects for such companies as L'Oréal (LA POCHE POSAY, SkinCeuticals) and CERAVE working in [LightsOn](https://lights-on.pro/) as remote web layout developer. 
 
-* Also I was making little projects (mostly calculators - [example](https://ilya703.github.io/Calculator-Dollar-2/)) for [Siberia Tech](https://siberia-tech.ru/). 
+* Also I was making little projects (mostly calculators - [example](https://ilya703.github.io/Calculator-Dollar/)) for [Siberia Tech](https://siberia-tech.ru/). 
 
 I have got two huge team projects:
 
