@@ -25,13 +25,13 @@ I have got two huge team projects:
 
 * Once I participated one huge project for L'Oréal. We were working in team of 10-12 people and making an interactive many-pages site. The work was divided into subtasks and everyone was developing his own part. At the end we merged all parts into final result. It was an excellent experience of working within a team and communication by means of Git/GitHub. [Link on GitHub](https://github.com/vonLiebermann/Tender)
 
-* The second team project was connected with Adapt authoring tools (a special platform allowing to create courses with help of prepared components). LightsOn was making courses for Sber and it required to add more functional into ciurses. So our task was to create a new component. The team was consisted of 4 members. I was the main developer and others were helping me. The difficulty was in understanding documentary of that platform because it has no translation into Russian and I had to get information in English. Also this project was special for involving mostly JavaScript. [Link on GitHub](https://github.com/Ilya703/adapt-game) - [project](https://ilya703.github.io/game)
+* The second team project was connected with Adapt authoring tools (a special platform allowing to create courses with help of prepared components). LightsOn was making courses for Sber and it required to add more functional into ciurses. So our task was to create a new component. The team was consisted of 4 members. I was the main developer and others were helping me. The difficulty was in understanding documentary of that platform because it has no translation into Russian and I had to get information in English. Also this project was special for involving mostly JavaScript. [Link on GitHub](https://github.com/Ilya703/adapt-game) - [project](https://ilya703.github.io/Game)
 
 After these two projects I realised that I wanted to continue my studying towards JavaScript. I am still styding JavaScript and have already got to React. 
 
 My study projects using JavaScript developing: 
 
-* [link1](https://ilya703.github.io/Education-project-3/)
+* [link1](https://github.com/Ilya703/Food-site)
 * [link2](https://ilya703.github.io/Education-project-2/)
 
 Despite this short time line I think I have reached great achievements in Frontend. And this inspires me going ahead towards my big dream. 
