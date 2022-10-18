@@ -34,11 +34,11 @@ My study projects using JavaScript developing:
 * [link1](https://github.com/Ilya703/Food-site)
 * [link2](https://ilya703.github.io/Education-project-2/)
 
-Despite this short time line I think I have reached great achievements in Frontend. And this inspires me going ahead towards my big dream. 
+Летом 2022 я прошел на стажировку в Яндекс в команду Толока. Я разрабатывал новый интерфейс главного сайт со стороны заказчиков, участвовал в создании метрик эффективности заполнения карточек заданий, фиксил баги, обновил таблицу затрат на странице заказчика (работа с запросами с бэка), разработал консольную команду для запуска unit-тестов. 
 
 ## **My current situation**
 
-Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I am still cooperating with LightsOn and Siberia Tech. I am still studying advance JavaScript/React on Udemy and RS School (JavaScript / Front-end stage 1)
+Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I am still cooperating with LightsOn and Siberia Tech. I am still studying advance JavaScript, React, Redux. I want to learn Node.js and libraries around React(Next.js).
 
 ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I used this opportinity and applied for a tutor on Informatics in Umschool (online school for preparation for EGE - exams in Russia).
 
@@ -47,11 +47,20 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 * HTML5
 * CSS3 (SASS/SCSS)
 * JavaScript (ES6+, OOP, DOM, AJAX)
+* React
+* TypeScript
+* Redux
+* Jest
+* Backbone
+* MobX
+* Oclif
+* Handlebars
+* Marionette
 * Webpack
-* Git/GitHub
+* Git/GitHub/Bitbucket
 * Figma
 * C++
-* Python 
+* Python  
 
 ## **Code Example**
 
@@ -72,6 +81,7 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 
 ## **Work experience**
 
+* Yandex internship in Toloka team - summer-autumn 2022
 * Freelance  —  web layout developer  —  summer 2020, 2021
 * LightsOn  —  remote web developer  —  summer 2020 - now
 * Siberia Tech  —  web layout developer  —  summer 2021 - now
@@ -79,12 +89,13 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 
 ## **Education**
 
-* MISIS - Intelligence Data Analysis systems (1 course) *(in progress)*
+* MISIS - Intelligence Data Analysis systems (2 course) *(in progress)*
 * [Wayup](https://wayup.in/) - courses in HTML & CSS & JavaScript
 * [PASV](https://www.pasv.us/) - course in basic of JavaScript
+* [Learn JS](https://javascript.info) - JS tutorial
 * Coursera - [course](https://www.coursera.org/specializations/razrabotka-interfeysov) in HTML & CSS & JavaScript from MIPT & Yandex
-* Udemy - [advance JavaScript / React](https://www.udemy.com/course/javascript_full/) *(in progress)*
-* [RS School](https://rs.school/) - JavaScript / Front-end course stage 1 *(in progress)*
+* Udemy - [advance JavaScript / React](https://www.udemy.com/course/javascript_full/)
+* [RS School](https://rs.school/) - JavaScript / Front-end course stage 1
 * Stepik - [Python](https://stepik.org/course/67/syllabus) and [C++](https://stepik.org/course/363/syllabus) courses from HSE
 * Sber - design course
 
