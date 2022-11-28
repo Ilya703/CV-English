@@ -37,7 +37,7 @@ My study projects using React:
 * [Data base](https://ilya703.github.io/Employees-data-base/)
 * [Marvel](https://ilya703.github.io/Marvel/)
 
-In the summer of 2022, I completed an internship at Yandex in the [Toloka team](https://toloka .yandex.ru/). I developed a new interface of the main site on the requester's side, participated in the creation of performance metrics for filling out task cards, fixed bugs, updated the cost table on the requester's page (working with requests from the backend), developed a console command to run acceptance tests.
+In the summer of 2022, I completed an internship at Yandex in the [Toloka team](https://toloka.yandex.ru/). I developed a new interface of the main site on the requester's side, participated in the creation of performance metrics for filling out task cards, fixed bugs, updated the cost table on the requester's page (working with requests from the backend), developed a console command to run acceptance tests.
 
 The results of the internship: I really enjoyed working in a large team at Yandex, my colleagues helped me deal with all the issues, I learned a lot of new technologies and gained invaluable experience in developing a real project.
 
