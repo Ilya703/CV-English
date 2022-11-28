@@ -79,12 +79,13 @@ The results of the internship: I really enjoyed working in a large team at Yande
 * Python
 \
 &nbsp;
-* Работа по SCRUM
-* Опыт работы в распределенной команде (удаленная работа)
+* SCRUM Work
+* Work experience in a distributed team (remote work)
 
 ## **My current situation**
 
 Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I am still cooperating with LightsOn and Siberia Tech and supporting their small projects. 
+
 ALso I passed my exames in 2021 and got 98 points out of the 100 on Informatics. Now I am still working as a tutor on Informatics in Umschool (online school for preparation for EGE - exams in Russia).
 
 ## **Education**
