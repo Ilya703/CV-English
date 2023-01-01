@@ -88,6 +88,8 @@ Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I
 
 ALso I passed my exames in 2021 and got 98 points out of the 100 on Informatics. Now I am still working as a tutor on Informatics in Umschool (online school for preparation for EGE - exams in Russia).
 
+In 2022, I became the prize winner of the RuCode programming contest.
+
 ## **Education**
 
 * MISIS - Intelligence Data Analysis systems (2 course) *(in progress)*
