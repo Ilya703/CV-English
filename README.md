@@ -1,3 +1,5 @@
-# My English CV
+# My English CV (irrelevant)
 
-https://Ilya703.github.io/CV-English/cv
+### 📃 [CV page](https://Ilya703.github.io/CV-English/cv)
+
+
